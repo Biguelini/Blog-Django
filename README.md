@@ -17,6 +17,8 @@ Blog feito como exercício no curso de Python 3
   
   cd Blog-Django
   
+  cd projetoblog
+  
   Instale os módulos necessário
   
   Execute o comando python manage.py runserver 8080
